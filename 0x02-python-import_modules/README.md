@@ -1,4 +1,4 @@
-# pPython - import & modules
+# Python - import & modules
 
 # Project files
 
